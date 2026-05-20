@@ -1,5 +1,7 @@
 ﻿//WorkWithIntegers();
 OrderPrecedence();
+WorkWithDoubles();  
+CircleArea();
 
 void WorkWithIntegers()
 {
@@ -24,11 +26,13 @@ void WorkWithIntegers()
 
 void OrderPrecedence()
 {
-double a = 10;
-double b = 19;
-double c = 25;
-double d = (a + b) / c;
-Console.WriteLine(d);
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b);
+
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c / d);
 }
 
 void WorkWithDoubles()
@@ -38,4 +42,11 @@ double b = 50;
 double c = 2567;
 double d = (a + b) / c;
 Console.WriteLine(d);
+}
+
+void CircleArea()
+{
+    double radius = 2.5;
+    double area = Math.PI * radius * radius;
+    Console.WriteLine(area);
 }
