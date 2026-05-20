@@ -24,6 +24,15 @@ void WorkWithIntegers()
 
 void OrderPrecedence()
 {
+double a = 10;
+double b = 19;
+double c = 25;
+double d = (a + b) / c;
+Console.WriteLine(d);
+}
+
+void WorkWithDoubles()
+{
 double a = 1000;
 double b = 50;
 double c = 2567;
