@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-Thunderbird560")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03034f82b4d2637dd53e6ea49afaa00a103054c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9766d80037e7c978f92bae7441939337b85ef1")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-Thunderbird560")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-Thunderbird560")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
